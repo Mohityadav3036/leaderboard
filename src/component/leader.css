@@ -1,0 +1,44 @@
+.main{
+    /* text-align: center; */
+    /* color: white; */
+
+}
+.leader{
+    text-align: center;
+   margin-top: 30px;
+   color: rgb(114, 110, 106); 
+   letter-spacing: 1px;
+   
+   font-size: 50px;
+
+}
+.empty{
+    margin-bottom: 40px;
+    box-shadow: 2px 2px 2px 1px rgb(183, 172, 172);
+}
+.basic{
+    margin-left: 12%;
+    margin-top: 60px;
+    font-size: 32px;
+    color: rgb(187, 143, 86);
+
+}
+.empty1{
+    box-shadow: 2px 2px 2px 1px rgb(183, 172, 172);
+}
+.main1{
+    padding-top: 10px;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 12%;
+    margin-right: 12%;
+    
+}
+
+.thead{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+.tr{
+    
+}
